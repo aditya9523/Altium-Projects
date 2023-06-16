@@ -1,0 +1,22 @@
+Added Component: Designator=Arduino Uno(ARDUINO UNO)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Servo motor(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=ultrasonic sensor(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+5V Pin=Servo motor-2
+Added Pin To Net: NetName=+5V Pin=ultrasonic sensor-1
+Added Net: Name=+5V
+Added Pin To Net: NetName=GND Pin=Servo motor-3
+Added Net: Name=GND
+Added Pin To Net: NetName=NetArduino Uno_9 Pin=Arduino Uno-9
+Added Pin To Net: NetName=NetArduino Uno_9 Pin=ultrasonic sensor-2
+Added Net: Name=NetArduino Uno_9
+Added Pin To Net: NetName=NetArduino Uno_10 Pin=Arduino Uno-10
+Added Pin To Net: NetName=NetArduino Uno_10 Pin=ultrasonic sensor-3
+Added Net: Name=NetArduino Uno_10
+Added Pin To Net: NetName=NetArduino Uno_11 Pin=Arduino Uno-11
+Added Pin To Net: NetName=NetArduino Uno_11 Pin=Servo motor-1
+Added Net: Name=NetArduino Uno_11
+Added Class: Name=AT long bus (13.3 x 4.2 inches)
+Added Class: Name=Sheet1
